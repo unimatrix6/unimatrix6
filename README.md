@@ -1,5 +1,5 @@
 - 👋Hi I'm unimatrix6 but you can call me unimatrix :)
-- 🧑 I'm a coding enthusiast and hobby lighting designer from Germany
+- 🧑 I'm a coding enthusiast and hobby lighting designer/engineer from Germany
 - 🔭 I’m currently working on an AirQuality Monitor that's compatible with Homeassistant (coming soon)
 - 💬 Ask me about lighting and DMX stuff
 - 😄 Pronouns: He/him
